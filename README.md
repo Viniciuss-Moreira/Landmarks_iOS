@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://github.com/Viniciuss-Moreira/landmark">
     <!-- Please provide path to your logo here -->
-    <img src="docs/images/Swift.png" alt="Logo" width="100" height="100">
+    <img src="docs/images/swift.png" alt="Logo" width="100" height="100">
   </a>
 </h1>
 
