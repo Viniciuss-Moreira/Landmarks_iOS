@@ -8,7 +8,7 @@ Projeto desenvolvido na introdução de swiftUI da apple
 <br>
 
 <p align="center">
-  <img alt="Layout Dev Links" src="./github/preview.jpg" width="100%">
+  <img alt="Layout Dev Links" src="./img/Gravação de Tela 2025-06-09 às 20.10.19.gif" width="100%">
 </p>
 
 🛠 Tecnologias
