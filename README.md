@@ -8,7 +8,7 @@ Projeto desenvolvido na introdução de swiftUI da apple
 <br>
 
 <p align="center">
-  <img alt="Layout Dev Links" src="gif.gif" width="100%">
+  <img alt="Layout Dev Links" src="img/demonstracao.gif" width="100%">
 </p>
 
 🛠 Tecnologias
