@@ -15,10 +15,10 @@ Projeto desenvolvido na introdução de swiftUI da apple
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-<p align="center">
-  [![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge)](#)
-  [![SwiftUI](https://img.shields.io/badge/SwiftUI-524520?logo=swift&logoColor=white&style=for-the-badge)](#)
-  [![UIKit](https://img.shields.io/badge/UIKit-white?logo=swift&logoColor=black&style=for-the-badge)](#)
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge" alt=Swift">
+  <img src="https://img.shields.io/badge/SwiftUI-524520?logo=swift&logoColor=white&style=for-the-badge" alt=SwiftUI">
+  <img src="https://img.shields.io/badge/UIKit-white?logo=swift&logoColor=black&style=for-the-badge" alt=UIKit">
 </p>
 
 
