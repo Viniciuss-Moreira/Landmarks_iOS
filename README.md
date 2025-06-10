@@ -42,7 +42,7 @@ git clone https://github.com/Viniciuss-Moreira/Landmarks_iOS
 ```
  2. vá ate o diretório do projeto
 ```bash
-cd landmarks
+cd Landmarks_iOS
 ```
  3. Abra o projeto do xcode
 ```bash
