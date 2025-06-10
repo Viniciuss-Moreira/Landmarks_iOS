@@ -38,10 +38,13 @@ Este é um projeto de introdução ao SwiftUI e UIKit da propria Apple, onde ale
 ### Passos
 ```bash
 git clone https://github.com/Viniciuss-Moreira/Landmarks_iOS
+```
 ```bash
 cd landmarks
+```
 ```bash
 open Landmarks.xcodeproj
+```
 
 
 Desenvolvido por [Vinicius Moreira](https://www.linkedin.com/in/vinicius-moreira-806105350/) 🚀
