@@ -24,7 +24,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 📁 Projeto
 
-Hunter Drinks é uma aplicação inovadora que não apenas procura o coquetel desejado, mas também fornece uma lista completa de todos os ingredientes necessários para a preparação do drink. Com uma interface intuitiva e amigável, nossa plataforma simplifica a experiência de criar bebidas deliciosas, garantindo que você tenha todos os elementos certos à mão para impressionar seus convidados ou desfrutar de um momento especial.
+O aplicativo Landmark permite visualizar informações e locais de pontos turisticos naturais famosos, contendo features como selecionar locais favoritos e filtrar apenas por esses locais salvos como favoritos, registrar e visualizar dados da viagem até esses locais por gráficos no perfil, e emblemas de crachás como "quests" adquiridas ao visitar tais pontos turisticos e completar outros objetivos.
+
+Este é um projeto de introdução ao SwiftUI e UIKit da propria Apple, onde alem de seguir desde o início da criação de uma aplicação iOS, percorre todas as vertentes necessárias para desenvolver aplicativos completos e dinâmicos, como expêriencia do usuário (UI/UX Design), desenhos com CoreGraphics, estilos de animações nos gráficos (como o .spring), navegação com NavigationView, conceitos avançados de interface com UIKit e como transformar esse projeto em multiplataforma alterando o target do projeto para watchOS e macOS.
+
 
 
 
