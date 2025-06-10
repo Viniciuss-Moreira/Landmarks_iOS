@@ -33,7 +33,6 @@ Este é um projeto de introdução ao SwiftUI e UIKit da propria Apple, onde ale
 
 Desenvolvido por [Vinicius Moreira](https://www.linkedin.com/in/vinicius-moreira-806105350/) 🚀
 
-'''
-adsa
-
+'''bash
+adsdsdasdsa
 '''
