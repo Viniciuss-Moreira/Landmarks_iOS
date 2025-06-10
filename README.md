@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📁 Projeto
 
-O aplicativo Landmark permite visualizar informações e locais de pontos turisticos naturais famosos, contendo features como selecionar locais favoritos e filtrar apenas por esses locais salvos como favoritos, registrar e visualizar dados da viagem até esses locais por gráficos no perfil, e emblemas de crachás como "quests" adquiridas ao visitar tais pontos turisticos e completar outros objetivos.
+O aplicativo Landmarks permite explorar pontos turísticos naturais famosos, com features para selecionar e filtrar somente locais favoritos. Também registra e exibe estatísticas de viagem por meio de gráficos no perfil e recompensa os usuários com emblemas de "quests" ao completar objetivos.
 
 Este é um projeto de introdução ao SwiftUI e UIKit da propria Apple, onde alem de seguir desde o início da criação de uma aplicação iOS, percorre todas as vertentes necessárias para desenvolver aplicativos completos e dinâmicos, como expêriencia do usuário (UI/UX Design), desenhos com CoreGraphics, estilos de animações nos gráficos (como o .spring), navegação com NavigationView, conceitos avançados de interface com UIKit e como transformar esse projeto em multiplataforma alterando o target do projeto para watchOS e macOS.
 
@@ -48,7 +48,7 @@ cd landmarks
 ```bash
 open Landmarks.xcodeproj
 ```
-# 4. selecione um simulador ou dispositivo e clique em ▶️ Run
+ 4. selecione um simulador ou dispositivo e clique em ▶️ Run
 
 
 
