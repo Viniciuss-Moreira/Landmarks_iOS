@@ -11,7 +11,7 @@ Projeto desenvolvido na introdução de swiftUI da apple
   <img alt="Layout Dev Links" src="img/demonstracao.gif" width="20%">
 </p>
 
-🛠 Tecnologias
+## 🛠 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -22,16 +22,26 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 </p>
 
 
-📁 Projeto
+## 📁 Projeto
 
 O aplicativo Landmark permite visualizar informações e locais de pontos turisticos naturais famosos, contendo features como selecionar locais favoritos e filtrar apenas por esses locais salvos como favoritos, registrar e visualizar dados da viagem até esses locais por gráficos no perfil, e emblemas de crachás como "quests" adquiridas ao visitar tais pontos turisticos e completar outros objetivos.
 
 Este é um projeto de introdução ao SwiftUI e UIKit da propria Apple, onde alem de seguir desde o início da criação de uma aplicação iOS, percorre todas as vertentes necessárias para desenvolver aplicativos completos e dinâmicos, como expêriencia do usuário (UI/UX Design), desenhos com CoreGraphics, estilos de animações nos gráficos (como o .spring), navegação com NavigationView, conceitos avançados de interface com UIKit e como transformar esse projeto em multiplataforma alterando o target do projeto para watchOS e macOS.
 
 
+## 🛠 Como rodar
+
+### Pré-requisitos
+- Xcode 15 ou superior  
+- iOS 15.0+
+
+### Passos
+```bash
+git clone https://github.com/Viniciuss-Moreira/Landmarks_iOS
+```bash
+cd landmarks
+```bash
+open Landmarks.xcodeproj
 
 
 Desenvolvido por [Vinicius Moreira](https://www.linkedin.com/in/vinicius-moreira-806105350/) 🚀
-
-```bash
-git clone https://github.com/SeuUsuario/landmarks.git
