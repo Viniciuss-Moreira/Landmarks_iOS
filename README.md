@@ -36,19 +36,23 @@ Este é um projeto de introdução ao SwiftUI e UIKit da propria Apple, onde ale
 - iOS 15.0+
 
 ## Passos
- 1. clone o repositório
+ 1. Clone o repositório
 ```bash
 git clone https://github.com/Viniciuss-Moreira/Landmarks_iOS
 ```
- 2. vá ate o diretório do projeto
+ 2. Vá ate o diretório do projeto
 ```bash
 cd Landmarks_iOS
 ```
- 3. Abra o projeto do xcode
+ 3. Vá até o diretório que contem os arquivos
+```bash
+cd Landmarks
+```
+4. Abra o projeto do xcode
 ```bash
 open Landmarks.xcodeproj
 ```
- 4. selecione um simulador ou dispositivo e clique em ▶️ Run
+ 5. Selecione um simulador ou dispositivo e clique em ▶️ Run
 
 
 
